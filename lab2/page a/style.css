@@ -1,0 +1,245 @@
+body{
+    font-size: 12px;
+    color: black;
+    font-family: Tahoma, Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* id */
+#section_normal_1{
+    height: 80px;
+    border-bottom: 4px solid #d9d9d9;
+}
+#section_normal_1 .alpha{
+        width: auto;
+        float: left;
+        padding-top: 18px;
+
+}
+#section_normal_1 .omega{
+    width: auto;
+    float: right;
+    padding-top: 18px; 
+}
+#section_normal_1 .omega .htext_style{
+    width: auto;
+    float: left;
+    font-weight: 600;
+    color: #acacac;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+#section_normal_1 .omega .social_button{
+   float: right;
+   width: auto;
+}
+
+
+#section_normal_4_2{
+    background: #333333;
+    height: 550px;
+}
+#section_normal_4_2 .pix_container{
+    width: auto;
+    float: left;
+    padding-top: 85px ;
+    
+}
+#section_normal_4_2 .omega{
+    width: auto;
+    padding-top: 80px;
+}
+.blue_text{
+    color: #50b3da !important
+}
+
+.bold_text{
+    font-weight: bold;
+}
+.normal_text{
+    font-size: mediums;
+    color: #fff;
+}
+.light_gray{
+       color: #949494;
+}
+.big_text{
+    font-size: 20px;      
+}
+.big_title{
+    font-size: 45px;
+    color: #fff;
+    margin: -5px;
+}
+.normal_text{
+       font-size: 15px;
+}
+.pix_button{
+    color: white;
+    font-size: 15px;
+    border-bottom: 4px solid #287f96;
+    background-color: #2dc0e8;
+    border-radius: 5px;
+    padding: 15px 27px;
+    text-decoration: none;
+    box-sizing: border-box;
+    
+}
+.pixicon-eye{
+    color: white;
+
+}
+#section_normal_6{
+    height: 280px;
+    background-color: #eeeeee;
+    margin-top: -15px;
+    box-sizing: border-box;
+    border-bottom: 4px solid #d9d9d9;
+}
+
+#section_normal_6 .L1_style{
+    padding-top: 25px;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 0px;
+    box-sizing: border-box;
+   color: #6b6b6b;
+    
+}
+
+#section_normal_6 .L2_style{
+    width: auto;
+    text-align: center;
+    color: #a9a9a9;
+    font-size: 15px;
+    margin-top: -10px;
+    box-sizing: border-box;
+    font-style: normal;
+}
+
+#section_normal_6 .alpha{
+    width: 50%;
+    float: left;
+    
+}
+
+#section_normal_6 .alpha .box_1{
+    width: 450px;
+    height: 100px;
+    background-color: white;
+    float: right;
+    border-bottom: 3px solid #d9d9d9;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+#section_normal_6 .b_style{
+    height: 100px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+    background-color: #f5f5f5;
+    box-sizing: border-box;
+    
+}
+
+#section_normal_6 .logo_style{
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+}
+
+#section_normal_6 .txt_style{
+    width: 320px;
+    float: left;
+    font-size: 13px;
+    text-align: left;
+    padding-top: 7px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    
+}
+
+#section_normal_6 .omega{
+    float: left;
+    width: 50%;
+}
+
+#section_normal_6 .omega .box_2{
+    width: 450px;
+    height: 100px;
+    background-color: white;
+    float: left;
+    border-bottom: 3px solid #d9d9d9;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#section_agency_5{
+    height: 200px;
+    margin-top:50px;
+}
+
+
+.f1_style{ 
+    color: rgb(150, 214, 53);
+    font-size: 24px;
+    text-align: center;
+}
+
+.f2_style{ 
+   opacity: 0.7;
+    font-size: 18px;
+    text-align: center; 
+    margin-top: 20px;
+
+}
+
+.second_link{
+ 
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.slow_fade{
+    color: #4d8c5a;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: 600;
+
+}
+
+.get_2_btn{
+    padding :25px;
+    border :3px solid #4d8c5a ;
+  
+}
+
+.rights_st{
+    margin-top: 60px;
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: 12px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pixfort_agency_14 .container{
+    text-align: center;
+    
+}
+.pixfort_st{
+color: #4d8c5a;
+font-size: larger;
+}
+.clearfix{
+    margin-top : 30px;
+}
